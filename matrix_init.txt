@@ -1,0 +1,6 @@
+5,5
+MYSELF, salary , NOTHING, job , city , 
+salary , MYSELF, salary , NOTHING, language hobby , 
+NOTHING, salary , MYSELF, NOTHING, NOTHING, 
+job , NOTHING, NOTHING, MYSELF, city , 
+city , language hobby , NOTHING, city , MYSELF, 

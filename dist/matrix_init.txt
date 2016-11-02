@@ -1,0 +1,8 @@
+7,7
+MYSELF, NOTHING, job , job , salary , job , language salary , 
+NOTHING, MYSELF, NOTHING, job language , street language salary , NOTHING, salary language , 
+job , NOTHING, MYSELF, NOTHING, NOTHING, street , NOTHING, 
+job , job language , NOTHING, MYSELF, city salary language , hobby street salary , NOTHING, 
+salary , street language salary , NOTHING, city salary language , MYSELF, NOTHING, job , 
+job , NOTHING, street , hobby street salary , NOTHING, MYSELF, salary , 
+language salary , salary language , NOTHING, NOTHING, job , salary , MYSELF, 
